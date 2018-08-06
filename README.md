@@ -5,9 +5,7 @@ Coming Soon:
 The below example code and testing interface has been provided.
 
 ### To Do:
-- Add PayHost and PayWeb example code
 - Video walkthrough
-- Update to new DPO | PayGate branding
 
 ## PayWeb3
 

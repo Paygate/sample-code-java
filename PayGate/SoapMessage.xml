@@ -1,0 +1,11 @@
+<SOAP-ENV:Envelope xmlns:SOAP-ENV="http://schemas.xmlsoap.org/soap/envelope/">
+    <SOAP-ENV:Header>Training Details</SOAP-ENV:Header>
+    <SOAP-ENV:Body>
+        <training:JAVA xmlns:training="https://jitendrazaa.com/blog">
+            <WS>Training on Web service</WS>
+        </training:JAVA>
+        <training:JAVA xmlns:training="https://jitendrazaa.com/blog">
+            <Spring>Training on Spring 3.0</Spring>
+        </training:JAVA>
+    </SOAP-ENV:Body>
+</SOAP-ENV:Envelope>
