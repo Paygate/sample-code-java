@@ -1,0 +1,62 @@
+INFO  - 2018-06-21 15:47:36.284; payhost.SOAPClient; SOAPAction : https://secure.paygate.co.za/payhost/process.trans?wsdlSingleFollowUp
+INFO  - 2018-06-21 15:47:36.345; payhost.SOAPClient; Request SOAP Message :com.sun.xml.internal.messaging.saaj.soap.ver1_1.Message1_1Impl@1e80bfe8
+INFO  - 2018-06-21 15:47:37.944; payhost.SOAPClient; Response SOAP Message : com.sun.xml.internal.messaging.saaj.soap.ver1_1.Message1_1Impl@4cf777e8
+INFO  - 2018-06-21 15:49:34.268; payhost.SOAPClient; SOAPAction : https://secure.paygate.co.za/payhost/process.transSingleFollowUp
+INFO  - 2018-06-21 15:49:34.326; payhost.SOAPClient; Request SOAP Message :com.sun.xml.internal.messaging.saaj.soap.ver1_1.Message1_1Impl@1e80bfe8
+INFO  - 2018-06-21 15:49:46.271; payhost.SOAPClient; SOAPAction : https://secure.paygate.co.za/payhost/process.trans?wsdlSingleFollowUp
+INFO  - 2018-06-21 15:49:46.326; payhost.SOAPClient; Request SOAP Message :com.sun.xml.internal.messaging.saaj.soap.ver1_1.Message1_1Impl@1e80bfe8
+INFO  - 2018-06-21 15:49:47.948; payhost.SOAPClient; Response SOAP Message : com.sun.xml.internal.messaging.saaj.soap.ver1_1.Message1_1Impl@4cf777e8
+INFO  - 2018-06-21 15:51:28.308; payhost.SOAPClient; SOAPAction : https://secure.paygate.co.za/payhost/process.trans?wsdlSingleFollowUp
+INFO  - 2018-06-21 15:51:28.361; payhost.SOAPClient; Request SOAP Message :com.sun.xml.internal.messaging.saaj.soap.ver1_1.Message1_1Impl@1e80bfe8
+INFO  - 2018-06-21 15:51:29.976; payhost.SOAPClient; Response SOAP Message : com.sun.xml.internal.messaging.saaj.soap.ver1_1.Message1_1Impl@4cf777e8
+INFO  - 2018-06-21 16:07:49.993; payhost.SOAPClient; SOAPAction : https://secure.paygate.co.za/payhost/process.trans?wsdlSingleFollowUp
+INFO  - 2018-06-21 16:07:50.040; payhost.SOAPClient; Request SOAP Message :com.sun.xml.internal.messaging.saaj.soap.ver1_1.Message1_1Impl@1e80bfe8
+INFO  - 2018-06-21 16:07:51.693; payhost.SOAPClient; Response SOAP Message : com.sun.xml.internal.messaging.saaj.soap.ver1_1.Message1_1Impl@4cf777e8
+INFO  - 2018-06-21 16:08:19.954; payhost.SOAPClient; SOAPAction : https://secure.paygate.co.za/payhost/process.trans?wsdlSingleFollowUp
+INFO  - 2018-06-21 16:08:20.011; payhost.SOAPClient; Request SOAP Message :com.sun.xml.internal.messaging.saaj.soap.ver1_1.Message1_1Impl@1e80bfe8
+INFO  - 2018-06-21 16:10:37.021; payhost.SOAPClient; SOAPAction : https://secure.paygate.co.za/payhost/process.trans?wsdlSingleFollowUp
+INFO  - 2018-06-21 16:10:37.081; payhost.SOAPClient; Request SOAP Message :com.sun.xml.internal.messaging.saaj.soap.ver1_1.Message1_1Impl@1e80bfe8
+INFO  - 2018-06-21 16:13:32.727; payhost.SOAPClient; SOAPAction : https://secure.paygate.co.za/payhost/process.trans?wsdlSingleFollowUp
+INFO  - 2018-06-21 16:13:32.796; payhost.SOAPClient; Request SOAP Message :com.sun.xml.internal.messaging.saaj.soap.ver1_1.Message1_1Impl@1e80bfe8
+INFO  - 2018-06-21 16:14:31.463; payhost.SOAPClient; SOAPAction : https://secure.paygate.co.za/payhost/process.trans?wsdlSingleFollowUp
+INFO  - 2018-06-21 16:14:31.525; payhost.SOAPClient; Request SOAP Message :com.sun.xml.internal.messaging.saaj.soap.ver1_1.Message1_1Impl@1e80bfe8
+INFO  - 2018-06-22 11:12:50.828; payhost.SOAPClient; SOAPAction : https://secure.paygate.co.za/payhost/process.trans?wsdlSingleFollowUp
+INFO  - 2018-06-22 11:12:50.900; payhost.SOAPClient; Request SOAP Message :com.sun.xml.internal.messaging.saaj.soap.ver1_1.Message1_1Impl@1e80bfe8
+INFO  - 2018-06-22 21:59:12.581; payhost.SOAPClient; SOAPAction : https://secure.paygate.co.za/payhost/process.trans?wsdlSingleFollowUp
+INFO  - 2018-06-22 21:59:12.643; payhost.SOAPClient; Request SOAP Message :com.sun.xml.internal.messaging.saaj.soap.ver1_1.Message1_1Impl@1e80bfe8
+INFO  - 2018-06-22 22:05:58.643; payhost.SOAPClient; SOAPAction : https://secure.paygate.co.za/payhost/process.trans?wsdlSingleFollowUp
+INFO  - 2018-06-22 22:05:58.701; payhost.SOAPClient; Request SOAP Message :com.sun.xml.internal.messaging.saaj.soap.ver1_1.Message1_1Impl@1e80bfe8
+INFO  - 2018-06-22 22:06:24.385; payhost.SOAPClient; SOAPAction : https://secure.paygate.co.za/payhost/process.trans?wsdlSingleFollowUp
+INFO  - 2018-06-22 22:06:24.439; payhost.SOAPClient; Request SOAP Message :com.sun.xml.internal.messaging.saaj.soap.ver1_1.Message1_1Impl@1e80bfe8
+INFO  - 2018-06-22 22:07:06.993; payhost.SOAPClient; SOAPAction : https://secure.paygate.co.za/payhost/process.transSingleFollowUp
+INFO  - 2018-06-22 22:07:07.049; payhost.SOAPClient; Request SOAP Message :com.sun.xml.internal.messaging.saaj.soap.ver1_1.Message1_1Impl@1e80bfe8
+INFO  - 2018-06-22 22:07:19.206; payhost.SOAPClient; SOAPAction : https://secure.paygate.co.za/payhost/process.trans?wsdlSingleFollowUp
+INFO  - 2018-06-22 22:07:19.273; payhost.SOAPClient; Request SOAP Message :com.sun.xml.internal.messaging.saaj.soap.ver1_1.Message1_1Impl@1e80bfe8
+INFO  - 2018-06-22 22:07:33.117; payhost.SOAPClient; SOAPAction : https://secure.paygate.co.za/payhost/process.trans?wsdl=SingleFollowUp
+INFO  - 2018-06-22 22:07:33.168; payhost.SOAPClient; Request SOAP Message :com.sun.xml.internal.messaging.saaj.soap.ver1_1.Message1_1Impl@1e80bfe8
+INFO  - 2018-06-22 22:43:35.661; payhost.SOAPClient; SOAPAction : https://secure.paygate.co.za/payhost/process.trans?wsdl=
+INFO  - 2018-06-22 22:43:35.737; payhost.SOAPClient; Request SOAP Message :com.sun.xml.internal.messaging.saaj.soap.ver1_1.Message1_1Impl@1e80bfe8
+INFO  - 2018-06-22 22:43:53.795; payhost.SOAPClient; SOAPAction : https://secure.paygate.co.za/payhost/process.trans?wsdl
+INFO  - 2018-06-22 22:43:53.854; payhost.SOAPClient; Request SOAP Message :com.sun.xml.internal.messaging.saaj.soap.ver1_1.Message1_1Impl@1e80bfe8
+INFO  - 2018-06-22 22:44:04.595; payhost.SOAPClient; SOAPAction : https://secure.paygate.co.za/payhost/process.trans
+INFO  - 2018-06-22 22:44:04.655; payhost.SOAPClient; Request SOAP Message :com.sun.xml.internal.messaging.saaj.soap.ver1_1.Message1_1Impl@1e80bfe8
+INFO  - 2018-06-22 22:44:19.030; payhost.SOAPClient; SOAPAction : https://secure.paygate.co.za/payhost/process.trans?wsdl
+INFO  - 2018-06-22 22:44:19.096; payhost.SOAPClient; Request SOAP Message :com.sun.xml.internal.messaging.saaj.soap.ver1_1.Message1_1Impl@1e80bfe8
+INFO  - 2018-06-23 01:42:31.421; payhost.SOAPClient; SOAPAction : https://secure.paygate.co.za/payhost/process.trans?wsdl
+INFO  - 2018-06-23 01:42:31.465; payhost.SOAPClient; Request SOAP Message :com.sun.xml.internal.messaging.saaj.soap.ver1_1.Message1_1Impl@1e80bfe8
+INFO  - 2018-06-25 10:38:36.588; payhost.SOAPClient; SOAPAction : https://secure.paygate.co.za/payhost/process.trans?wsdl
+INFO  - 2018-06-25 10:38:36.638; payhost.SOAPClient; Request SOAP Message :com.sun.xml.internal.messaging.saaj.soap.ver1_1.Message1_1Impl@1e80bfe8
+INFO  - 2018-06-25 10:56:50.216; payhost.SOAPClient; SOAPAction : https://secure.paygate.co.za/payhost/process.trans?wsdl
+INFO  - 2018-06-25 10:56:50.263; payhost.SOAPClient; Request SOAP Message :com.sun.xml.internal.messaging.saaj.soap.ver1_1.Message1_1Impl@1e80bfe8
+INFO  - 2018-06-26 10:09:59.549; payhost.SOAPClient; SOAPAction : https://secure.paygate.co.za/payhost/process.trans
+INFO  - 2018-06-26 10:09:59.625; payhost.SOAPClient; Request SOAP Message :com.sun.xml.internal.messaging.saaj.soap.ver1_1.Message1_1Impl@1e80bfe8
+INFO  - 2018-06-26 21:34:27.690; payhost.SOAPClient; SOAPAction : https://secure.paygate.co.za/payhost/process.trans
+INFO  - 2018-06-26 21:34:27.772; payhost.SOAPClient; Request SOAP Message :com.sun.xml.internal.messaging.saaj.soap.ver1_1.Message1_1Impl@1e80bfe8
+INFO  - 2018-06-26 21:39:09.287; payhost.SOAPClient; SOAPAction : https://secure.paygate.co.za/payhost/process.trans
+INFO  - 2018-06-26 21:39:09.555; payhost.SOAPClient; Request SOAP Message :com.sun.xml.internal.messaging.saaj.soap.ver1_1.Message1_1Impl@1e80bfe8
+INFO  - 2018-06-26 21:53:31.890; payhost.SOAPClient; SOAPAction : https://secure.paygate.co.za/payhost/process.trans
+INFO  - 2018-06-26 21:53:31.948; payhost.SOAPClient; Request SOAP Message :com.sun.xml.internal.messaging.saaj.soap.ver1_1.Message1_1Impl@1e80bfe8
+INFO  - 2018-06-26 21:53:40.394; payhost.SOAPClient; SOAPAction : https://secure.paygate.co.za/payhost/process.trans
+INFO  - 2018-06-26 21:53:40.461; payhost.SOAPClient; Request SOAP Message :com.sun.xml.internal.messaging.saaj.soap.ver1_1.Message1_1Impl@1e80bfe8
+INFO  - 2018-06-28 12:48:44.846; payhost.SOAPClient; SOAPAction : https://secure.paygate.co.za/payhost/process.trans
+INFO  - 2018-06-28 12:48:44.926; payhost.SOAPClient; Request SOAP Message :com.sun.xml.internal.messaging.saaj.soap.ver1_1.Message1_1Impl@300ffa5d
