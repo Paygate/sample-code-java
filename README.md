@@ -1,7 +1,6 @@
 # sample-code-java
 ## PayGate Sample Code JAVA BETA
 
-Coming Soon:
 The below example code and testing interface has been provided.
 
 ### To Do:
