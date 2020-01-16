@@ -83,11 +83,11 @@ public class Utilities {
         if (entity != null) {
             strResponse = EntityUtils.toString(entity);
         }
-        if (getStatus(strResponse).getProperty("StatusName").equals("Error")) {
+        /*if (getStatus(strResponse).getProperty("StatusName").equals("Error")) {
             System.out.println("Error : " + getStatus(strResponse).getProperty("ResultDescription"));
         } else {
             System.out.println("No Error");
-        }
+        }*/
         return strResponse;
     }
 
